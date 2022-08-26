@@ -66,7 +66,7 @@
                 class="text-xl px-3 py-2 mr-2 w-full border-b-2 border-green-500" />
             </div>
 
-            <button type="submit" class="bg-green-500 w-full text-white py-3">Save</button>
+            <button type="submit" class="bg-green-500 w-full text-white py-3">CHECKOUT CART</button>
         </form>
 
         </div>

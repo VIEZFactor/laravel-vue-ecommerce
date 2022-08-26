@@ -31999,7 +31999,7 @@ var render = function () {
               staticClass: "bg-green-500 w-full text-white py-3",
               attrs: { type: "submit" },
             },
-            [_vm._v("Save")]
+            [_vm._v("CHECKOUT CART")]
           ),
         ]
       ),
